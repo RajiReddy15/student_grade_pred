@@ -70,4 +70,4 @@ student_grade_prediction/
 
 ## 📬 Contact
 
-For questions or collaboration, feel free to connect on [LinkedIn](https://linkedin.com/in/your-profile).
+For questions or collaboration, feel free to connect on [LinkedIn](https://www.linkedin.com/in/raji-reddy-bb54682aa/).
